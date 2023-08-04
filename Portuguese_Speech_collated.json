@@ -1,0 +1,14 @@
+{
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "9f6c5eeb-1c06-41fb-92b4-ea27538dcf54",
+            "collectionId": "Portuguese",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Portuguese/Portuguese_Speech/9f6c5eeb-1c06-41fb-92b4-ea27538dcf54/9f6c5eeb-1c06-41fb-92b4-ea27538dcf54_pt_Male.mp4"
+        }
+    ]
+}
